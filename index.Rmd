@@ -1,0 +1,40 @@
+---
+title: "Alejandro Pinto"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/alejandro-pinto-s%C3%A1nchez-185471329/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/AlejandroPintoS"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:pintoalejandro.1g@gmail.com"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I am interested in learning about most bio areas to decide which is the best fit
+
+
+#### **Education**
+
+**Genomic sciences undergrad** | [ENES Juriquilla](https://www.instagram.com/enesjuriquilla/), Mexico | August 2024 - Present
+
+#### **Experience**
+**Internship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Sur Herrera Paredes](https://sur.science/) | Jan 2025 - Present
+
+#### **Volunteering**
+
+Effective Altruism Group Organizer @[EA_Querétaro](https://www.instagram.com/ae_queretaro/) | August 2025 - Present
+
+[Club Astronómico Pakal](https://pakal.club/) | Oct 2023 - Jan 2025
+
+Repository Contributions: 
+
+Github [Physarum Image Detection](https://github.com/ecoevolab/Physarum_Image_Detection) | Dr. Sur Herrera Paredes
+
+
